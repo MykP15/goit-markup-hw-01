@@ -1,0 +1,22 @@
+.web{
+color: #4d5ae5;
+font-weight: 700;
+font-size: 18px;
+    /* line-height: 21px; */
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--iris);
+font-family: 'Raleway', sans-serif;
+}
+
+.studio{
+font-weight: 700;
+font-size: 18px;
+/* line-height: 21px; */
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--navy-blue);
+font-family: 'Raleway', sans-serif;
+}
